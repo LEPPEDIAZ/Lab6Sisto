@@ -138,7 +138,7 @@ int main(int argc, char* argv[]) {
     int num;
     FILE *fptr;
     FILE *fptropen;
-    fptropen = fopen("new.txt", "r");
+    fptropen = fopen("new1.txt", "r");
     fptr = fopen("new.txt", "w");
     printf("Creando threads... \n");
     int i;          
