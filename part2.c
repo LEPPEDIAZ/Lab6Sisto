@@ -138,8 +138,8 @@ int main(int argc, char* argv[]) {
     int num;
     FILE *fptr;
     FILE *fptropen;
-    fptropen = fopen("new1.txt", "r");
-    fptr = fopen("new.txt", "w");
+    fptropen = fopen("new2.txt", "r");
+    fptr = fopen("new2.txt", "w");
     printf("Creando threads... \n");
     int i;          
     semId = semget(ftok(argv[0], 'A'), 2, IPC_CREAT | PERMS);
