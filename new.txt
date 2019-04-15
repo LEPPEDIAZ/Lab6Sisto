@@ -1,0 +1,21 @@
+Creando threads...
+Iniciando Thread 1
+Semaforo abierto con exito
+Iniciando Iteracion
+Recurso tomado
+Buenos dias!Recurso usado con 1 . 
+Iniciando Thread 2
+Iniciando Thread 3
+Semaforo abierto con exito
+Iniciando iteracion
+Recurso tomado
+Buenos dias!Recurso usando con 2 .
+Iniciando Thread 4
+Semaforo abierto con exito
+Iniciando iteracion
+Recurso tomado
+Semaforo Abierto con exito
+Iniciando Iteracion
+Recurso tomado
+Buenos dias!Recurso usando con 1
+Buenos dias!Recurso usando con 2
